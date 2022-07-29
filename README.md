@@ -1,5 +1,5 @@
 
-<h1 align="center">Bárbara</h1>
+<h1 align="center">Bárbara Ferraz</h1>
 
 ## Detalhes
 - 🖥️ Estagiando no DMAE como helpdesk na área de infraestrutura 
