@@ -18,6 +18,6 @@
 ## Repositórios Importantes
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barbarafpm&repo=Projetos-HTML-CSS&theme=radical)](https://github.com/Barbarafpm/Projetos-HTML-CSS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barbarafpm&repo=Projetos-HTML-CSS&theme=radical)](https://github.com/Barbarafpm/Projetos-JavaScript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barbarafpm&repo=Projetos-JavaScript&theme=radical)](https://github.com/Barbarafpm/Projetos-JavaScript)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarafpm&layout=compact&them=radical)](https://github.com/anuraghazra/github-readme-stats)
