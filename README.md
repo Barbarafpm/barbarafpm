@@ -4,8 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F769EF&lines=Sou+B%C3%A1rbara+Ferraz;Seja+muito+bem-vindo(a))](https://git.io/typing-svg)
 
 
-## Detalhes
-- 🖥️ Estagiando no DMAE como helpdesk na área de infraestrutura 
+## Detalhes 
 - 👨‍🎓 Cursando Sistemas de Informação (6º período)
 - 💼 Aberta para trabalhar!
 
